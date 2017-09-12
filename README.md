@@ -10,7 +10,7 @@ This repository shows an inner project, _in-house_ solution to track the bibliog
 ### How do I get set up? ###
 
 * Summary of set up: 
-     * Just install FileMaker in the mac. Then install [FileMaker for the ipad](https://itunes.apple.com/ar/app/filemaker-go-15/id998694623?mt=8). Download our latest [database](https://bitbucket.org/imhicihu/database-on-mobile-device/downloads/). _Presto_.
+     * Just install FileMaker in the mac. Then install [FileMaker for the ipad](https://itunes.apple.com/ar/app/filemaker-go-15/id998694623?mt=8). Download our latest [database](https://bitbucket.org/imhicihu/database-on-mobile-device/downloads/).
 * Configuration
      * Check the [issues](https://bitbucket.org/imhicihu/database-on-mobile-device/issues?status=new&status=open). 
 * Dependencies
