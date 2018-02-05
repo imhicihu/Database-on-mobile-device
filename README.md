@@ -16,7 +16,7 @@ This repository shows an inner project, _in-house_ solution to track the bibliog
 * Dependencies
      * A mac & ipad running IOS 9 (and above).
 * Database configuration
-     * FileMaker 13.0 and later (tested on 12, 13 & 14). Both Mac & tablet compatible.
+     * FileMaker 13.0 and later (tested on 12, 13 & 14). Both Mac, mobile and tablet fully compatible.
 * How to run tests
      * Install the database on your selected medium. The database do **not** allow change data. It just a browser with all the digital assets with a built-in search.
 
