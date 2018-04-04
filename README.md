@@ -11,7 +11,8 @@ This repository shows an inner project, _in-house_ solution to track the bibliog
      ![reinhardt.png](https://bitbucket.org/repo/ekyaeEE/images/2879011349-reinhardt.png)
 
 * Version 1.7 
-     - No further development is expected. All the data was collected in time.
+     - No further development is expected. 
+     - All the data was collected properly and just in time.
 
 ### How do I get set up? ###
 
@@ -20,11 +21,14 @@ This repository shows an inner project, _in-house_ solution to track the bibliog
 * Configuration
      * Check the [issues](https://bitbucket.org/imhicihu/database-on-mobile-device/issues?status=new&status=open). 
 * Dependencies
-     * Actually the latest [database](https://bitbucket.org/imhicihu/database-on-mobile-device/downloads/) can be read it on pc, mac & ipad with the latest Filemaker version. Verify system requeriments  in accordance to every operating system.
+     * Actually the latest [database](https://bitbucket.org/imhicihu/database-on-mobile-device/downloads/) can be read it on pc, mac & ipad with the latest Filemaker version. 
+     * Verify system requeriments in accordance to every operating system.
 * Database configuration
-     * FileMaker 13.0 and later (currently tested on v.12, v.13 & v.14). Both PC, Mac, mobile and tablet fully compatible with the latest version according every operating system.
+     * FileMaker 13.0 and later (currently tested on v.12, v.13 & v.14). 
+     * Both PC, Mac, mobile and tablet fully compatible with the latest version according every operating system.
 * How to run tests
-     * Install the database on your selected medium. The database do **not** allow change any data. It just a browser with all the digital assets with a built-in searcher.
+     * Install the database on your selected medium. 
+     * The database do **not** allow change any data. It just a browser with all the digital assets with a built-in searcher.
 
 
 ### Contribution guidelines ###
@@ -34,11 +38,11 @@ This repository shows an inner project, _in-house_ solution to track the bibliog
 * Code review
      * This project do not allow rewrite or modify the code. Copyright issues.
 * Other guidelines
-     * No. It is a companion of our bibliographical search of our website. There is no plan to updates.
+     * No. It is a companion of our bibliographical search of our website. There is _no_ plan to updates.
 
 ### Who do I talk to? ###
 
 * Repo owner or admin
-     * Contact to `imhicihu at gmail dot com`
+     * Contact to `imhicihu` at `gmail` dot `com`
 * Other community or team contact
      * Contact is enable on the [board](https://bitbucket.org/imhicihu/database-on-mobile-device/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account).
