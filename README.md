@@ -31,7 +31,7 @@
 * How to run tests
      * Install the database on your selected medium. 
      * The database do **not** allow change any data. It just a browser with all the digital assets with a built-in searcher.
-
+![reinhardt.png](https://bitbucket.org/repo/nrpzj4/images/3588203088-reinhardt.png)
 
 ### Contribution guidelines ###
 
