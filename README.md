@@ -1,6 +1,8 @@
 # Rationale #
 
-This repository shows an inner project, _in-house_ solution to track the bibliographical assets of the `Reinhardt collection`. Just a Macbook Air (for testing and programming) and Ipad Air (to collect the data) in the hardware side. The software that tied both hardware was FileMaker.
+* This repository shows an inner project, _in-house_ solution to track the bibliographical assets of the `Reinhardt collection`. 
+* Just a Macbook Air (for testing and programming) and Ipad Air (to collect the data) in the hardware side. 
+* The software that tied both hardware was FileMaker.
 
 ### What is this repository for? ###
 
