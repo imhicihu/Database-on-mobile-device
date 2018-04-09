@@ -3,6 +3,8 @@
 * This repository shows an inner project, _in-house_ solution to track the bibliographical assets of the `Reinhardt collection`. 
 * Just a Macbook Air (for testing and programming) and Ipad Air (to collect the data) on the hardware side. 
 * The software that tied both hardware was FileMaker.
+![reinhardt.gif](https://media.giphy.com/media/1vZawPFgPr9oDIaTXP/giphy.gif)
+
 
 ### What is this repository for? ###
 
