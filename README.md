@@ -29,7 +29,7 @@
      - Verify system requeriments in accordance to every operating system.
 * Database configuration
      - FileMaker 13.0 and later (currently tested on v.12, v.13 & v.14). 
-     - Both PC, Mac, mobile and tablet fully compatible with the latest version according every operating system
+     - Both PC, Mac, mobile and tablet fully compatible with the latest version according every device
 * How to run tests
      - Install the database on your selected medium. 
      - The database do **not** allow change any data. It just a browser with all the digital assets with a built-in searcher
