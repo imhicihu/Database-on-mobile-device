@@ -15,6 +15,10 @@
 * Version 1.7 
      - No further development is expected. 
      - All the data was collected properly and just in time.
+     
+### Issues ###
+
+* Check them on [here](https://bitbucket.org/imhicihu/database-on-mobile-device/issues)
 
 ### How do I get set up? ###
 
