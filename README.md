@@ -1,3 +1,7 @@
+![stability-wip](https://img.shields.io/badge/status%3A%20-archived-orange.svg)
+[![Bitbucket issues](https://img.shields.io/badge/issues-closed-green.svg)]()
+![internal-wip](https://img.shields.io/badge/Internal%20use%3A-stable-green.svg)
+
 # Rationale #
 
 * This repository shows an inner project, _in-house_ solution to track the bibliographical assets of the `Reinhardt collection`. 
