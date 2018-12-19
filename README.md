@@ -9,7 +9,7 @@
 * The software that tied both hardware was FileMaker.
 
 ![reinhardt.gif](https://media.giphy.com/media/1vZawPFgPr9oDIaTXP/giphy.gif)
-> Demostration of the application searching the term `Medieval`
+> Searching the condition `Medieval`
 
 ### What is this repository for? ###
 
