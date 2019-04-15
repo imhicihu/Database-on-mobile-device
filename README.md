@@ -31,6 +31,7 @@
      - Just install [FileMaker](http://www.filemaker.com/es/products/) in your computer (mac or pc)
      - Or install [FileMaker Go](https://itunes.apple.com/ar/developer/filemaker-inc/id314638464?mt=8) on your ipad & iphone device
      - Download our latest [database](https://bitbucket.org/imhicihu/database-on-mobile-device/downloads/)
+     - Check [colophon.md](https://bitbucket.org/imhicihu/database-on-mobile-device/src/94a36ac2aa6df3c3aa2c181e3163af7e372907b2/colophon.md?at=master)
 * Configuration
      - Check the [issues](https://bitbucket.org/imhicihu/database-on-mobile-device/issues?status=new&status=open)
 * Dependencies
