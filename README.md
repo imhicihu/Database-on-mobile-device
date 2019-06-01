@@ -52,7 +52,7 @@
 * Code review
      - This project do not allow rewrite or modify the source-code. Copyright issues.
 * Other guidelines
-     - No. This is a companion, collateral project that fuel our bibliographical search of our website. There is _no_ plan to updates. The goal was reached.
+     - No. This is a companion, collateral project that fuel our internal bibliographical searcher of our website. There is _no_ plan to updates. The goal was reached.
 
 ### Who do I talk to? ###
 
