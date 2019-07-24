@@ -38,12 +38,20 @@
      - Actually the latest [database](https://bitbucket.org/imhicihu/database-on-mobile-device/downloads/) can be read it on pc, mac & ipad with the latest Filemaker version. 
      - Verify system requeriments in accordance to every operating system.
 * Database configuration
-     - FileMaker 13.0 and later (currently tested on v.12, v.13 & v.14). 
-     - Both PC, Mac, mobile and tablet fully compatible with the latest version according every device
+     - FileMaker 13.0 and later (currently tested on v.12, v.13, v.14, v.15, v.16, v.17). 
+     - Both PC, Mac, mobile and tablet fully cumply with the latest version according every device
 * How to run tests
      - Install the database on your selected medium. 
      - The database do **not** allow change any data. It just a browser with all the digital assets with a built-in searcher
 ![reinhardt.png](https://bitbucket.org/repo/nrpzj4/images/3588203088-reinhardt.png)
+
+### Related repositories ###
+
+* Some repositories linked with this project:
+     - [Bibliographical Searcher - Standalone app](https://bitbucket.org/imhicihu/bibliographical-searcher-stand-alone-app/)
+     - [Terrae database](https://bitbucket.org/imhicihu/terrae-database/src/master/)
+     - [Bibliographic data on iOS devices](https://bitbucket.org/imhicihu/bibliographic-data-on-ios-devices/)
+     - [IMHICIHU Digital repository](https://bitbucket.org/digital_repository/imhicihu-digital-repository/)
 
 ### Contribution guidelines ###
 
