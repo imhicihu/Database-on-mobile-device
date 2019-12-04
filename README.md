@@ -68,7 +68,11 @@
      - Contact to `imhicihu` at `gmail` dot `com`
 * Other community or team contact
      - Contact is enable on the [board](https://bitbucket.org/imhicihu/database-on-mobile-device/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account).
-     
+
+### Code of Conduct
+
+* Please, check our [Code of Conduct](https://bitbucket.org/imhicihu/database-on-mobile-device/src/master/code_of_conduct.md)
+
 ### Legal ###
 
 * All trademarks are the property of their respective owners.
