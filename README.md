@@ -36,6 +36,7 @@
      - Check the [issues](https://bitbucket.org/imhicihu/database-on-mobile-device/issues?status=new&status=open)
 * Dependencies
      - Actually the latest [database](https://bitbucket.org/imhicihu/database-on-mobile-device/downloads/) can be read it on pc, mac & ipad with the latest Filemaker version. 
+     - ![databases.png](https://bitbucket.org/repo/nrpzj4/images/3071523766-databases.png)
      - Verify system requeriments in accordance to every operating system.
 * Database configuration
      - FileMaker 13.0 and later (currently tested on v.12, v.13, v.14, v.15, v.16, v.17). 
