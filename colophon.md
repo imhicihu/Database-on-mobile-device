@@ -17,6 +17,7 @@
      - [Plantuml](http://www.plantuml.com/plantuml/uml/):  Diagram / deployment diagram / critical path
      - [OpenRefine](http://openrefine.org/): cleaning tool for datasets and datatables
      - [Carbon](https://carbon.now.sh/): (Automatization on code screen sharing)
+     - [Data converters](http://okfnlabs.org/dataconverters/): Unified python library and command line interface to convert data from one format to another (especially tabular data).
      - [Google Docs](https://docs.google.com/)
      - Cleaning database:
          - [Talent open studio for data quality](https://www.talend.com/products/talend-open-studio/data-quality-open-studio/)
