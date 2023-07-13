@@ -13,9 +13,9 @@
 ### What is this repository for? ###
 
 * Quick summary
-     - A solution-driven app to collect data (a basement where even a notebook can't operate succesfully). 
+     - A solution-driven app to collect data (a basement where even a notebook can't operate successfully). 
      - We create this portable application to fix this bottleneck.    
-     ![reinhardt.png](https://bitbucket.org/repo/ekyaeEE/images/2879011349-reinhardt.png)
+     ![reinhardt.png](images/2879011349-reinhardt.png)
 * Version 1.7 
      - No further development is expected. 
      - All the data was collected properly and just in time.
@@ -69,7 +69,7 @@
 
 ### Code of Conduct
 
-* Please, check our [Code of Conduct](https://bitbucket.org/imhicihu/database-on-mobile-device/src/master/code_of_conduct.md)
+* Please, check our [Code of Conduct](code_of_conduct.md)
 
 ### Legal ###
 
