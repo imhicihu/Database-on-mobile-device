@@ -1,1 +1,0 @@
-* ~~Migrate Del.icio.us gathered links to Evernote~~
