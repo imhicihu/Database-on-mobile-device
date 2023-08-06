@@ -7,7 +7,7 @@
 * This repository shows an inner project, _in-house_ solution to track the bibliographical assets of the `Reinhardt collection`. 
 * Just a Macbook Air (for testing and programming) and Ipad Air (to collect the data) on the hardware side. 
 * The software that tied both hardware was FileMaker.
--![reinhardt.gif](images/962695588-2019-05-10%2013.49.19.gif)
+![reinhardt.gif](images/962695588-2019-05-10%2013.49.19.gif)
 > Searching the condition `Reinhardt`
 
 ### What is this repository for? ###
